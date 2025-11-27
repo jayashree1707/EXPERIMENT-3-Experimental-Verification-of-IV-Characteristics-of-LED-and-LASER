@@ -13,7 +13,7 @@ To study the characteristics of fiber optic LED and plot the graph of forward cu
 - 1-meter fiber optic cable  
 - Digital Multimeter (DMM)  
 
---
+---
 
 ## 📚 THEORY
 
@@ -40,6 +40,8 @@ To study the characteristics of fiber optic LED and plot the graph of forward cu
 ---
 
 ## 🔌 CONNECTION DIAGRAM
+<img width="1118" height="674" alt="ocn" src="https://github.com/user-attachments/assets/6755f686-d7a7-4ce3-9479-2e7e9bc2c3d5" />
+
 
 
 ---
@@ -50,14 +52,20 @@ To study the characteristics of fiber optic LED and plot the graph of forward cu
 
 | Forward Voltage Vf (V) | Forward Current If (mA) |
 |------------------------|-------------------------|
-|                        |                         |
-|                        |                         |
-|                        |                         |
-
+|          0             |           0             |
+|          1.42          |           0.011         |
+|          1.46          |           0.025         |
+|          1.48          |           0.038         |
+|          1.5           |           0.076         |
+|          1.52          |           0.16          |
 ---
 
 ## 📈 MODEL GRAPH
-*(Insert graph of Vf vs If here)*
+<img width="578" height="502" alt="gr" src="https://github.com/user-attachments/assets/14d2a25b-da1b-4e01-a8b0-9281c6355a6b" />
+
+## OUTPUT GRAPH:
+![G](https://github.com/user-attachments/assets/caeda819-180b-4f30-b70e-a2925813be81)
+
 
 ---
 
